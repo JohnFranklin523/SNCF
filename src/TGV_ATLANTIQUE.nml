@@ -168,6 +168,7 @@ item(FEAT_TRAINS, item_TGV_ATLANTIQUE) {
         bitmask_vehicle_info:         0;
         cargo_capacity:               41;
         length:                       8;
+        cargo_age_period:             250;
     }
     graphics {
         default:                      sw_TGV_ATLANTIQUE_graphics;

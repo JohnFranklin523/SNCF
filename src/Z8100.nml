@@ -111,6 +111,7 @@ item(FEAT_TRAINS, item_Z8100) {
         extra_weight_per_wagon:       0 ton;
         bitmask_vehicle_info:         0;
         length:                       8;
+        cargo_age_period:             150;
     }
     graphics {
         default:                      sw_Z8100_graphics;

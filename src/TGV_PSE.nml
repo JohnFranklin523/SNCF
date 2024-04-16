@@ -220,6 +220,7 @@ item(FEAT_TRAINS, item_TGV_PSE) {
         extra_weight_per_wagon:       0 ton;
         bitmask_vehicle_info:         0;
         cargo_capacity:               1;
+        cargo_age_period:             250;
     }
     graphics {
         default:                      sw_TGV_PSE_graphics;
